@@ -1,4 +1,4 @@
 # HTML_exercise-1
 
 # Project URL
-https://github.com/NuellaKyerewaa/HTML_exercise-1
+https://nuellakyerewaa.github.io/HTML_exercise-1/
